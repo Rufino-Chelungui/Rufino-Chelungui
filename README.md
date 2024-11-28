@@ -1,8 +1,8 @@
 # Rufino Chelungui 🤖
 
-**`Desenvolvedora web`**
+**`Desenvolvedor web`**
 
-Olá! Meu nome é Rufino Chelungui, sou um desenvolvedor web com habilidades em diversas tecnologias. Concluí o ensino médio no IMPK nº 3039, com o curso técnico em informática. Atualmente, estou trabalhando na área como freelancer. Sou apaixonada por tecnologia e aqui compartilho meu conhecimento e habilidades através de projectos pessoais.
+Olá! Meu nome é Rufino Chelungui, sou um desenvolvedor web com habilidades em diversas tecnologias. Concluí o ensino médio no IMPK nº 3039, com o curso técnico em informática. Atualmente, estou trabalhando na área como freelancer. Sou apaixonado por tecnologia e aqui compartilho meu conhecimento e habilidades através de projectos pessoais.
 
 ---
 
